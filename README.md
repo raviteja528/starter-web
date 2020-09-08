@@ -23,6 +23,7 @@ system.
 
 ## How To Contribute
 
+please fork this repository and then issue pull Req
 
 ### Copyright
 2014 Git.Training
