@@ -27,4 +27,5 @@ system.
 please fork this repository and then issue pull Req
 
 ### Copyright
-2014 Git.Training
+
+2014 Git.Training.All rights reserved.
